@@ -1,0 +1,8 @@
+{"wordCounts":{"data":583,"udacity":548,"with":417,"learning":361,"program":304},"urlsVisited":30}Run at Sun, 22 Jan 2023 01:17:04 GMT
+com.udacity.webcrawler.ParallelWebCrawler#crawl took 0m 6s 611ms
+com.udacity.webcrawler.parser.PageParserImpl#parse took 0m 6s 569ms
+
+Run at Sun, 22 Jan 2023 01:18:01 GMT
+com.udacity.webcrawler.ParallelWebCrawler#crawl took 0m 6s 786ms
+com.udacity.webcrawler.parser.PageParserImpl#parse took 0m 6s 743ms
+
