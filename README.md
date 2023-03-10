@@ -2,7 +2,7 @@
 
 ### Description
 
-This project was built from a starter code provied by Udacity for a Udacity Nanodegree program. The application was converted from a single thread to a multithread web crawler that extracts all words from a given website and will follow any link found to a given depth and extract all words said linked sites also. It will then calculate the most used words in the crawled sites and save a given amount of top used words to a file.
+This project was built from a starter code provided by Udacity for a Udacity Nanodegree program. The application was converted from a single thread to a multithread web crawler that extracts all words from a given website and will follow any link found to a given depth and extract all words from said linked sites also. It will then calculate the most used words in the crawled sites and save a given amount of top used words to a file.
 
 ### 
 
